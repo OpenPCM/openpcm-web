@@ -29,8 +29,6 @@ This section is currently blank but will be updated in the future.
 # Thank You
 We deeply appreciate your help with this project. Hopefully this guide covers everything you need to know. You can always ask questions via [OpenPCMSlack] if unsure!
 
-Thanks, Raymond King
-
 [OpenPCMSlack]: https://openpcm.slack.com
 [Our project plan]: https://github.com/OpenPCM/openpcm-web/projects
 [issues]: https://github.com/OpenPCM/openpcm-web/issues
